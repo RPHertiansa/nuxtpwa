@@ -60,6 +60,6 @@ export default {
     name: 'Nuxt.js PWA survival store',
     short_name: 'Nuxt.js PWA',
     lang: 'en',
-    display: 'standalone',
+    display: 'standalone'
   }
 }
