@@ -55,5 +55,11 @@ export default {
 
   // Build Configuration (https://go.nuxtjs.dev/config-build)
   build: {
+  },
+  manifest: {
+    name: 'Nuxt.js PWA survival store',
+    short_name: 'Nuxt.js PWA',
+    lang: 'en',
+    display: 'standalone',
   }
 }
